@@ -25,7 +25,7 @@ int main() {
     bitwise();
     return 0;
 }
-//test
+
 void helloWorld(){
     cout<<"Hello";
 }
